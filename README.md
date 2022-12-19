@@ -1,4 +1,3 @@
 # Discrete Vortex Method
-Includes discrete vortex method based on the lumped-vortex element. This also includes the code to determine lift coefficient of airfoils in ground effect. 
-Refer "Low-Speed Aerodynamics" by katz and plotkin for  the mathematical details of dvm.
+Includes discrete vortex method based on the lumped-vortex element. This also consists of the code to determine lift coefficient of airfoils in ground effect. Refer to "Low-Speed Aerodynamics" by Katz and Plotkin for the mathematical details of DVM.
 
